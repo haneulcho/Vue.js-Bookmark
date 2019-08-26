@@ -1,4 +1,5 @@
 # 간단 북마크
+A simple online bookmarking tool
 
 ## Project setup
 ```
