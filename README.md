@@ -14,3 +14,7 @@ npm run serve
 ```
 npm run build
 ```
+
+>You can see this code live at [https://haneulcho.github.io/Vue.js-Bookmark](https://haneulcho.github.io/Vue.js-Bookmark)
+
+>Last Update: 08/26/2019
